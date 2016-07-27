@@ -1,0 +1,89 @@
+p {
+    font-size: 30px;
+    text-align: center;    
+}
+
+h2{
+    text-align: center;
+}
+h3{
+	margin-left: 10px;
+}
+.container{
+    border: 2px solid #3E3F40 ;
+    margin-left: 20px;
+    width: 50%;
+    height: 1000px;
+    
+    
+}
+.imagen{
+    
+    height:150px;
+    width:100px;
+    margin-left: 240px;
+    position: relative;
+    
+}
+.datos{
+    margin-top: 5px;
+    font-size: 40px;
+    font-family: Arial black;
+}
+.texto{
+    margin-left: 40px;
+    margin-right: 30px;
+    font-size: 15px;
+    font-family: Arial;
+    text-align: center;
+    width: 460px;
+
+}
+
+.caja1{
+    background-color: #3E3F40 ;
+    width: 430px;
+    height: 45px;
+    margin-left: 50px;
+}
+.caja2{
+    background-color: #3E3F40 ;
+    width: 230px;
+    height: 50px;
+    margin-left: 50px;
+}
+.caja3{
+    background-color: #3E3F40 ;
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+}
+.textoCaja{
+    color: #FFFFFF ;
+    font-family: Arial;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+
+.portafolio{
+    
+    display: inline-block;
+}
+.portada{
+  
+    margin-left: 180px;
+    border-radius:100%;
+    margin-top: 20px;
+}
+.imgporta{
+	 width: 160px;
+    height: 100px;
+    position: relative;
+    padding: 10px;
+}
+.conteiner-1{
+    margin-left: 35px;
+    margin-top: 20px;
+}
